@@ -1,3 +1,14 @@
+.tabs{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.tabs h1 {
+  margin: 10px;
+}
+
+
 .App {
   text-align: center;
 }
